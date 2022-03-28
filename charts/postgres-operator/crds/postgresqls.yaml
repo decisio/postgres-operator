@@ -12,7 +12,7 @@ spec:
     plural: postgresqls
     singular: postgresql
     shortNames:
-    - pg
+    - pgo
     categories:
     - all
   scope: Namespaced
